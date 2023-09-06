@@ -1,0 +1,10 @@
+.word {
+	font-size: 60px;
+	margin-top: 30px;
+}
+
+@media (max-width: 768px) {
+	.word {
+		font-size: 10vw;
+	}
+}

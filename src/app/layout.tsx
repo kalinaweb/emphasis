@@ -7,6 +7,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Ударения для ЕГЭ',
   description: 'Игра для заучивания правильного ударения в словах',
+  icons: {
+    icon: 'favicon.ico',
+  },
 }
 
 export default function RootLayout({

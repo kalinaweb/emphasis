@@ -1180,26 +1180,21 @@ export const wordsBD = {
 			},
 		] 		
 	},
-	/*:  {
+	74:  {
 		value: [
 			{
-				id: "",
-				title: "",
+				id: "741",
+				title: "вернА (прил.)",
 				right: 1,
 			},
 			{
-				id: "",
-				title: "",
-				right: 0,
-			},
-			{
-				id: "",
-				title: "",
+				id: "742",
+				title: "вЕрна (прил.)",
 				right: 0,
 			},
 		] 		
 	},
-	:  {
+	/*:  {
 		value: [
 			{
 				id: "",

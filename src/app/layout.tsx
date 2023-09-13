@@ -1,15 +1,14 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import Favicon from '../../public/favicon.ico'
 
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Ударения для ЕГЭ',
   description: 'Игра для заучивания правильного ударения в словах',
-  icons: {
-    icon: 'favicon.ico',
-  },
+  icons: [{ rel: 'icon', url: Favicon.src }],
 }
 
 export default function RootLayout({

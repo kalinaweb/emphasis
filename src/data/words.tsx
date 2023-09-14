@@ -1194,6 +1194,209 @@ export const wordsBD = {
 			},
 		] 		
 	},
+	75:  {
+		value: [
+			{
+				id: "751",
+				title: "знАчимый",
+				right: 1,
+			},
+			{
+				id: "752",
+				title: "значИмый",
+				right: 0,
+			},
+			{
+				id: "753",
+				title: "значимЫй",
+				right: 0,
+			},
+		] 		
+	},
+	76:  {
+		value: [
+			{
+				id: "761",
+				title: "красИвее",
+				right: 1,
+			},
+			{
+				id: "762",
+				title: "крАсивее",
+				right: 0,
+			},
+			{
+				id: "763",
+				title: "красивЕе",
+				right: 0,
+			},
+		] 		
+	},
+	77:  {
+		value: [
+			{
+				id: "771",
+				title: "красИвый",
+				right: 1,
+			},
+			{
+				id: "772",
+				title: "крАсивый",
+				right: 0,
+			},
+		] 		
+	},	
+	78:  {
+		value: [
+			{
+				id: "781",
+				title: "красИвейший",
+				right: 1,
+			},
+			{
+				id: "782",
+				title: "крАсивейший",
+				right: 0,
+			},
+			{
+				id: "783",
+				title: "красивЕйший",
+				right: 0,
+			},
+		] 		
+	},
+	79:  {
+		value: [
+			{
+				id: "791",
+				title: "кУхонный",
+				right: 1,
+			},
+			{
+				id: "792",
+				title: "кухОнный",
+				right: 0,
+			},
+			{
+				id: "793",
+				title: "кухоннЫй",
+				right: 0,
+			},
+		] 		
+	},
+	80:  {
+		value: [
+			{
+				id: "801",
+				title: "ловкА",
+				right: 1,
+			},
+			{
+				id: "802",
+				title: "лОвка",
+				right: 0,
+			},
+		] 		
+	},
+	81:  {
+		value: [
+			{
+				id: "811",
+				title: "лОвкий",
+				right: 1,
+			},
+			{
+				id: "811",
+				title: "ловкИй",
+				right: 0,
+			},
+		] 		
+	},
+	82:  {
+		value: [
+			{
+				id: "821",
+				title: "мозаИчный",
+				right: 1,
+			},
+			{
+				id: "822",
+				title: "мОзаичный",
+				right: 0,
+			},
+			{
+				id: "823",
+				title: "мозАичный",
+				right: 0,
+			},
+		] 		
+	},
+	83:  {
+		value: [
+			{
+				id: "831",
+				title: "оптОвый",
+				right: 1,
+			},
+			{
+				id: "832",
+				title: "Оптовый",
+				right: 0,
+			},
+		] 		
+	},
+	84:  {
+		value: [
+			{
+				id: "841",
+				title: "прозорлИвый",
+				right: 1,
+			},
+			{
+				id: "842",
+				title: "прозОрливый",
+				right: 0,
+			},
+			{
+				id: "843",
+				title: "прОзорливый",
+				right: 0,
+			},
+		] 		
+	},
+	85:  {
+		value: [
+			{
+				id: "851",
+				title: "прозорлИва",
+				right: 1,
+			},
+			{
+				id: "852",
+				title: "прОзорлива",
+				right: 0,
+			},
+			{
+				id: "853",
+				title: "прозОрлива",
+				right: 0,
+			},
+		] 		
+	},
+	86:  {
+		value: [
+			{
+				id: "861",
+				title: "слИвовый",
+				right: 1,
+			},
+			{
+				id: "862",
+				title: "сливОвый",
+				right: 0,
+			},
+		] 		
+	},
 	/*:  {
 		value: [
 			{
@@ -1251,7 +1454,139 @@ export const wordsBD = {
 			},
 		] 		
 	},
-	
+	:  {
+		value: [
+			{
+				id: "",
+				title: "",
+				right: 1,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+		] 		
+	},
+	:  {
+		value: [
+			{
+				id: "",
+				title: "",
+				right: 1,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+		] 		
+	},
+	:  {
+		value: [
+			{
+				id: "",
+				title: "",
+				right: 1,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+		] 		
+	},
+	:  {
+		value: [
+			{
+				id: "",
+				title: "",
+				right: 1,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+		] 		
+	},
+	:  {
+		value: [
+			{
+				id: "",
+				title: "",
+				right: 1,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+		] 		
+	},
+	:  {
+		value: [
+			{
+				id: "",
+				title: "",
+				right: 1,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+		] 		
+	},
+	:  {
+		value: [
+			{
+				id: "",
+				title: "",
+				right: 1,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+			{
+				id: "",
+				title: "",
+				right: 0,
+			},
+		] 		
+	},
 	:  {
 		value: [
 			{

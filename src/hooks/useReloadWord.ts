@@ -1,5 +1,4 @@
 import { useState, useCallback, useRef, useEffect } from "react";
-import { Random } from "random-js";
 import { wordsBD } from '../data/words';
 
 const getCurrentState = () => {
